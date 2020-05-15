@@ -1,0 +1,9 @@
+{
+    "css": {
+        "snippets": {
+            "brbx": "box-sizing: border-box",
+            "w": "width: 100%",
+            "pr": "position: relative"
+        }
+    }
+}
